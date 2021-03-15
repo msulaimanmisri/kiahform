@@ -1,7 +1,7 @@
 <!-- Nav start -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-primary py-3">
+<nav class="navbar navbar-expand-lg navbar-light bg-warning py-3">
     <div class="container">
-        <a class="btn btn-outline-light order-1 mr-0 fs-6" href="https://github.com/msulaimanmisri/kiahform" target="_blank">Visit my Github</a>
+        <a class="btn btn-outline-dark order-1 mr-0 fs-6" href="https://github.com/msulaimanmisri/kiahform" target="_blank">Visit my Github</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

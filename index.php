@@ -11,7 +11,7 @@
         <div class="col-lg-3">
             <div class="card shadow-sm p-4 text-center">
                 <h3>Register</h3>
-                <a href="register.php" class="btn btn-primary mt-3"> Lihat Form </a>
+                <a href="register.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
         </div>
 
