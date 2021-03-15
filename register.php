@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+<?php include("includes/nav.php"); ?>
 
 <div class="container-fluid bg-light">
     <div class="row">
