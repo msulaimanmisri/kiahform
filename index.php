@@ -1,4 +1,5 @@
 <?php include("includes/header.php"); ?>
+<?php include("includes/nav.php"); ?>
 
 <div class="container text-center">
     <h1 class="display-1 fw-bold text-muted pt-5">Sila pilih form</h1>
