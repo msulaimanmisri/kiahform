@@ -13,7 +13,7 @@
                 <div>
                     <span class="badge bg-light text-dark mb-2"> Pro </span>
                 </div>
-                <h3>1 Bulan</h3>
+                <h3 class="fw-bold text-muted">1 Bulan</h3>
                 <p class="text-muted">RM1.00 / sehari</p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
@@ -28,7 +28,7 @@
                 <div>
                     <span class="badge bg-light text-dark mb-2"> Pro </span>
                 </div>
-                <h3>6 Bulan</h3>
+                <h3 class="fw-bold text-muted">6 Bulan</h3>
                 <p class="text-muted">RM0.83 / sehari</p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
@@ -41,10 +41,11 @@
         <div class="col-lg-3">
             <div class="card shadow-sm text-start p-4 mb-4 border border-3 border-primary">
                 <div>
-                    <span class="badge bg-primary mb-2"> Pro. Paling ramai langgan</span>
+                    <span class="badge bg-light text-dark mb-2"> Pro</span>
+                    <span class="badge bg-primary mb-2">Paling ramai langgan</span>
                 </div>
 
-                <h3>12 Bulan</h3>
+                <h3 class="fw-bold text-muted">12 Bulan</h3>
                 <p class="text-muted">RM0.71 / sehari</p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
                 <p><i class="bi bi-check-circle text-success"></i> An item</i></p>
