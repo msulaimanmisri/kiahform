@@ -45,13 +45,6 @@
 
         <div class="col-lg-3 mb-4">
             <div class="card shadow-sm p-4 text-center">
-                <h3>Subscribe</h3>
-                <a href="subscribe.php" class="btn btn-warning mt-3"> Lihat Form </a>
-            </div>
-        </div>
-
-        <div class="col-lg-3 mb-4">
-            <div class="card shadow-sm p-4 text-center">
                 <h3>Gateway</h3>
                 <a href="gateway.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
@@ -61,6 +54,13 @@
             <div class="card shadow-sm p-4 text-center">
                 <h3>Notifikasi</h3>
                 <a href="notifikasi.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Bank</h3>
+                <a href="bank.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
         </div>
 
