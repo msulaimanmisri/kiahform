@@ -31,7 +31,7 @@
 
                     <div class="col-md">
                         <div class="form-floating">
-                            <input type="input" class="form-control" id="floatingInputGrid" placeholder="name@example.com" value="12345">
+                            <input type="input" class="form-control" id="floatingInputGrid" placeholder="123456789" value="">
                             <label for="floatingInputGrid">No Tel Belakang</label>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
 
             </div>
 
-            <p class="text-muted text-center py-4">Adakah anda sudah mempunyai akaun? <a href="" class=""> Sila Log Masuk </a></p>
+            <p class="text-muted text-center py-4">Adakah anda sudah mempunyai akaun? <a href="login.php" class=""> Sila Log Masuk </a></p>
 
         </div>
     </div>

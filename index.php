@@ -15,6 +15,21 @@
             </div>
         </div>
 
+        <div class="col-lg-3">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Login</h3>
+                <a href="login.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Reset</h3>
+                <a href="reset.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+
     </div>
 </div>
 
