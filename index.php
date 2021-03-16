@@ -8,26 +8,62 @@
 
 <div class="container">
     <div class="row d-flex justify-content-center">
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-4">
             <div class="card shadow-sm p-4 text-center">
                 <h3>Register</h3>
                 <a href="register.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
         </div>
 
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-4">
             <div class="card shadow-sm p-4 text-center">
                 <h3>Login</h3>
                 <a href="login.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
         </div>
 
-        <div class="col-lg-3">
+        <div class="col-lg-3 mb-4">
             <div class="card shadow-sm p-4 text-center">
                 <h3>Reset</h3>
                 <a href="reset.php" class="btn btn-warning mt-3"> Lihat Form </a>
             </div>
         </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Profile</h3>
+                <a href="profile.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Subscribe</h3>
+                <a href="subscribe.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Subscribe</h3>
+                <a href="subscribe.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Gateway</h3>
+                <a href="gateway.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
+        <div class="col-lg-3 mb-4">
+            <div class="card shadow-sm p-4 text-center">
+                <h3>Notifikasi</h3>
+                <a href="notifikasi.php" class="btn btn-warning mt-3"> Lihat Form </a>
+            </div>
+        </div>
+
 
 
     </div>
